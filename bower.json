@@ -1,0 +1,24 @@
+{
+  "name": "bower",
+  "description": "cour bower",
+  "main": "index.js",
+  "authors": [
+    "Damien"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Aldured/Bower",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0"
+  },
+  "devDependencies": {
+    "jQuery-ModernForm": "jquery-modern-form#*",
+    "bootstrap": "^3.3.6"
+  }
+}

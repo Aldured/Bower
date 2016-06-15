@@ -1,0 +1,19 @@
+{
+  "name": "bower",
+  "version": "1.0.0",
+  "description": "cour bower",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aldured/Bower.git"
+  },
+  "author": "Damien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aldured/Bower/issues"
+  },
+  "homepage": "https://github.com/Aldured/Bower#readme"
+}
